@@ -1,1 +1,5 @@
-console.error("HALP")
+console.error("HALP!")
+console.log("I would be a logger.")
+console.warn('Halp me please.')
+
+
